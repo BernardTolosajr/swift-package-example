@@ -4,7 +4,7 @@
 public struct HelloPackage {
     public init() {}
     
-    public func HelloPackage() {
+    public func hello() {
         print("Hello, World!")
     }
 }
