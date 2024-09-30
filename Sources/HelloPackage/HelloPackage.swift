@@ -1,0 +1,10 @@
+// The Swift Programming Language
+// https://docs.swift.org/swift-book
+
+public struct HelloPackage {
+    public init() {}
+    
+    public func HelloPackage() {
+        print("Hello, World!")
+    }
+}
