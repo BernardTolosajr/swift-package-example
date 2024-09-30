@@ -8,6 +8,7 @@
 import SwiftUI
 
 public struct HelloView: View {
+    public init() {}
     public var body: some View {
         VStack {
             Image(systemName: "globe")
